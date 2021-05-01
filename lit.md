@@ -1,3 +1,54 @@
+Noun inflection
+The Lithuanian language nouns inflect in cases.
+
+
+
+Proper noun inflection
+The Lithuanian language proper nouns inflect in the same cases as regular
+nouns, but with a colon (':') as separator.
+
+
+
+
+# Symbol affixes
+
+
+
+
+
+Adjective inflection
+The Lithuanian language adjectives compare.
+
+
+
+Verb inflection
+The Lithuanian language verbs inflect in persons.
+
+
+
+=================================== !
+The Lithuanian morphophonological/twolc rules file !
+=================================== !
+
+
+
+
+
+
+
+
+* *primus%>s*
+* *primus00*
+
+
+* examples:*
+
+* examples:*
+
+
+* examples:*
+
+* examples:*
 
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Lithuanian LANGUAGE.
 
@@ -76,6 +127,85 @@ given the proper use of these flags.
 
 The word forms in Lithuanian language start from the lexeme roots of basic
 word classes, or optionally from prefixes:
+
+Nouns
+Nouns in the Lithuanian language are things.
+
+
+Prefixes
+Prefixes in the Lithuanian language are bound to beginning of other words.
+
+
+
+Pronouns
+Pronouns in the Lithuanian language are references to things.
+
+
+Adjectives
+Adjectives in the Lithuanian language describe things.
+
+
+Verbs
+Verbs in the Lithuanian language are actions.
+
+
+Numerals
+Numerals in the Lithuanian language are numbers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+% komma% :,      Root ;
+% tjuohkkis% :%. Root ;
+% kolon% :%:     Root ;
+% sárggis% :%-   Root ; 
+% násti% :%*     Root ; 
 
 
 
