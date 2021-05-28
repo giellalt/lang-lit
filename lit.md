@@ -604,29 +604,32 @@ These were the set types.
 
 
 
-Nouns
-Nouns in the Lithuanian language are things.
-
-
-Numerals
-Numerals in the Lithuanian language are numbers.
-
-
-Verbs
-Verbs in the Lithuanian language are actions.
-
-
-Prefixes
-Prefixes in the Lithuanian language are bound to beginning of other words.
+Verb inflection
+The Lithuanian language verbs inflect in persons.
 
 
 
-Adjectives
-Adjectives in the Lithuanian language describe things.
+Proper noun inflection
+The Lithuanian language proper nouns inflect in the same cases as regular
+nouns, but with a colon (':') as separator.
 
 
-Pronouns
-Pronouns in the Lithuanian language are references to things.
+
+Adjective inflection
+The Lithuanian language adjectives compare.
+
+
+
+Noun inflection
+The Lithuanian language nouns inflect in cases.
+
+
+
+
+# Symbol affixes
+
+
+
 
 
 =================================== !
@@ -652,32 +655,29 @@ The Lithuanian morphophonological/twolc rules file !
 * examples:*
 
 * examples:*
-
-# Symbol affixes
-
-
+Verbs
+Verbs in the Lithuanian language are actions.
 
 
-
-Noun inflection
-The Lithuanian language nouns inflect in cases.
-
+Pronouns
+Pronouns in the Lithuanian language are references to things.
 
 
-Proper noun inflection
-The Lithuanian language proper nouns inflect in the same cases as regular
-nouns, but with a colon (':') as separator.
+Numerals
+Numerals in the Lithuanian language are numbers.
 
 
+Adjectives
+Adjectives in the Lithuanian language describe things.
 
-Verb inflection
-The Lithuanian language verbs inflect in persons.
+
+Prefixes
+Prefixes in the Lithuanian language are bound to beginning of other words.
 
 
 
-Adjective inflection
-The Lithuanian language adjectives compare.
-
+Nouns
+Nouns in the Lithuanian language are things.
 
 
 
@@ -762,22 +762,6 @@ word classes, or optionally from prefixes:
 
 
 
-We describe here how abbreviations are in Lithuanian are read out, e.g.
-for text-to-speech systems.
-
-For example:
-
- * s.:syntynyt # ;  
- * os.:omaa% sukua # ;  
- * v.:vuosi # ;  
- * v.:vuonna # ;  
- * esim.:esimerkki # ; 
- * esim.:esimerkiksi # ; 
-
-
-
-
-
 
 
 
@@ -828,4 +812,20 @@ For example:
 % kolon% :%:     Root ;
 % sárggis% :%-   Root ; 
 % násti% :%*     Root ; 
+
+
+
+
+We describe here how abbreviations are in Lithuanian are read out, e.g.
+for text-to-speech systems.
+
+For example:
+
+ * s.:syntynyt # ;  
+ * os.:omaa% sukua # ;  
+ * v.:vuosi # ;  
+ * v.:vuonna # ;  
+ * esim.:esimerkki # ; 
+ * esim.:esimerkiksi # ; 
+
 
