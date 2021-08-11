@@ -3,7 +3,7 @@ The Lithuanian morphology and tools
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-lit)](https://github.com/giellalt/lang-lit/issues)
 [![Build Status](https://github.com/giellalt/lang-lit/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-lit/actions)
-[![License](https://img.shields.io/github/license/giellalt/lang-lit)](https://raw.githubusercontent.com/giellalt/lang-lit/main/LICENSE)
+[![License](https://img.shields.io/github/license/giellalt/lang-lit)](https://github.com/giellalt/lang-lit/blob/main/LICENSE)
 
 This repository contains finite state source files for the Lithuanian language,
 for building morphological analysers, proofing tools
