@@ -2,6 +2,12 @@
 !  ---------------
 !! The Lithuanian language nouns inflect in cases.
 
+LEXICON Paradigm1
++N+Sg+Nom:as ;
++N+Pl+Dat:ams ;
++N+Pl+Acc:q ;
+
+!! What group is this???
 LEXICON Cases
  +N+Sg+nom:0   #     ;
  +N+Pl+nom:i   #     ;
