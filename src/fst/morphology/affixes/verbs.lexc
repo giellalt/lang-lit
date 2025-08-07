@@ -3,38 +3,47 @@
 !! The Lithuanian language verbs inflect in persons.
 
 LEXICON Persons
-+V+1sg:en   #   ;
-+V+2sg:et   #   ;
-+V+3sg:e    #   ;
-+V+1pl:ien  #   ;
-+V+2pl:iet  #   ;
-+V+3pl:iet  #   ;
-+V+inf:0    #   ;
-#:0   Nouns   ;
++V+Sg1:en   #   ;
++V+Sg2:et   #   ;
++V+Sg3:e    #   ;
++V+Pl1:ien  #   ;
++V+Pl2:iet  #   ;
++V+Pl3:iet  #   ;
++V+Inf:0    #   ;
+
+
+LEXICON Tense
++V+Inf: # ;
++V+Ind+Prs+Sg3:%>a # ;
++V+Ind+Pst+Sg3:%>o # ;
++V+PstFreq:%>davo # ;
++V+Fut:%>s # ;
+
+!#:0   Nouns   ;
 
 ! vim: set ft=xfst-lexc:
 
-File grad.lexc looks as follows:
-
-Multichar_Symbols
-          ^T ^K ^P
-          ^A
-          +SG +NOM +GEN +PAR +TRA
-          ##
-
-LEXICON Root
-  0:##  Noun    ;
-
-LEXICON Noun
-  tikka:tik^Ka  Cases   ;
-  loppu:lop^Pu  Cases   ;
-  katto:kat^To  Cases   ;
-
-LEXICON Cases
-  +SG+NOM:              Final     ;
-  +SG+GEN:n             Final     ;
-  +SG+PAR:^A            Final     ;
-  +SG+TRA:ksi           Final     ;
-
-LEXICON Final
-  0:##    #       ;
+!File grad.lexc looks as follows:
+!
+!Multichar_Symbols
+!          ^T ^K ^P
+!          ^A
+!          +SG +NOM +GEN +PAR +TRA
+!          ##
+!
+!LEXICON Root
+!  0:##  Noun    ;
+!
+!LEXICON Noun
+!  tikka:tik^Ka  Cases   ;
+!  loppu:lop^Pu  Cases   ;
+!  katto:kat^To  Cases   ;
+!
+!LEXICON Cases
+!  +SG+NOM:              Final     ;
+!  +SG+GEN:n             Final     ;
+!  +SG+PAR:^A            Final     ;
+!  +SG+TRA:ksi           Final     ;
+!
+!LEXICON Final
+!  0:##    #       ;
