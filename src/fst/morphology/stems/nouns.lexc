@@ -4,8 +4,10 @@
 
 LEXICON Nouns
 noun    Cases   ;
+! vyras
+! pirstas
+! langas
+! miskas
 
-
-!! do you get this!!
 
 ! vim: set ft=xfst-lexc:
