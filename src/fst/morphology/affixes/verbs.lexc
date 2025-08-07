@@ -12,11 +12,13 @@ LEXICON Persons
 +V+inf:0    #   ;
 #:0   Nouns   ;
 
+! %> - suffix border
 LEXICON Tense
-+V+Pres:a # ;
-+V+Pst:o # ;
-+V+PstFreq:davo # ;
-+V+Fut:s # ;
++V+Inf: ;
++V+Prs:%>a # ;
++V+Pst:%>o # ;
++V+PstFreq:%>davo # ;
++V+Fut:%>s # ;
 
 ! vim: set ft=xfst-lexc:
 

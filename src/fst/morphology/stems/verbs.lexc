@@ -5,7 +5,7 @@
 LEXICON VerbRoot
 ! dirbti:dirb Persons2    ;  ! dirbti = to work
 ! kalbėti:kalb  Persons3  ;  ! kalbėti = to speak
-dirb Tense ;
+dirb:dirb Tense ;
 
 
 ! vim: set ft=xfst-lexc:
