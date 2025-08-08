@@ -20,6 +20,14 @@ LEXICON DIRBTI
 +V+Ind+Prs+Pl2:%>ate # ; !! added indicative and person
 +V+Ind+Prs+Pl3:%>a # ; !! added indicative and person
 
+!Past Tense
++V+Ind+Prt+Sg1:%>au # ; !! added indicative and person
++V+Ind+Prt+Sg2:%>ai # ; !! added indicative and person
++V+Ind+Prt+Sg3:%>o # ; !! added indicative and person
++V+Ind+Prt+Pl1:%>ome # ; !! added indicative and person
++V+Ind+Prt+Pl2:%>ote # ; !! added indicative and person
++V+Ind+Prt+Pl3:%>o # ; !! added indicative and person
+
 LEXICON NORETI  
 +V+Inf:%>ėti # ;
 +V+Ind+Prs+Sg1:%>iu # ; !! added indicative and person
