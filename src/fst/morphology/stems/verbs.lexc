@@ -2,10 +2,9 @@
 !  -----
 !! Verbs in the Lithuanian language are actions.
 
-LEXICON VerbRoot
+LEXICON Verbs
 ! dirbti:dirb Persons2    ;  ! dirbti = to work
 ! kalbėti:kalb  Persons3  ;  ! kalbėti = to speak
-dirb:dirb Tense ;
-
+dirbti:dirb DIRBTI ;
 
 ! vim: set ft=xfst-lexc:

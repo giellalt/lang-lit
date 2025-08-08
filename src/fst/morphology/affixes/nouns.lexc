@@ -2,19 +2,19 @@
 !  ---------------
 !! The Lithuanian language nouns inflect in cases.
 
-LEXICON Paradigm1
-+N+Sg+Nom:as ;
-+N+Pl+Dat:ams ;
-+N+Pl+Acc:q ;
+!LEXICON Paradigm1 ! missing continuation
+!+N+Sg+Nom:as ;
+!+N+Pl+Dat:ams ;
+!+N+Pl+Acc:q ;
 
 !! What group is this???
 LEXICON Cases
- +N+Sg+nom:0   #     ;
- +N+Pl+nom:i   #     ;
- +N+Sg+loc:as  #     ;
- +N+Pl+loc:ias #     ;
- +N+Sg+acc:at  #     ;
- +N+Pl+acc:iat #     ;
+ +N+Sg+Nom:0   #     ;
+ +N+Pl+Nom:i   #     ;
+ +N+Sg+Loc:as  #     ;
+ +N+Pl+Loc:ias #     ;
+ +N+Sg+Acc:at  #     ;
+ +N+Pl+Acc:iat #     ;
          #:0   Nouns ;
 
 ! vim: set ft=xfst-lexc:

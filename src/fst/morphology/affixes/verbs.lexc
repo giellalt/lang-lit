@@ -2,22 +2,23 @@
 !  ---------------
 !! The Lithuanian language verbs inflect in persons.
 
-LEXICON Persons
-+V+Sg1:en   #   ;
-+V+Sg2:et   #   ;
-+V+Sg3:e    #   ;
-+V+Pl1:ien  #   ;
-+V+Pl2:iet  #   ;
-+V+Pl3:iet  #   ;
-+V+Inf:0    #   ;
+!LEXICON Persons
+!+V+Sg1:en   #   ;
+!+V+Sg2:et   #   ;
+!+V+Sg3:e    #   ;
+!+V+Pl1:ien  #   ;
+!+V+Pl2:iet  #   ;
+!+V+Pl3:iet  #   ;
+!+V+Inf:0    #   ;
 
-
-LEXICON Tense
-+V+Inf: # ;
-+V+Ind+Prs+Sg3:%>a # ;
-+V+Ind+Pst+Sg3:%>o # ;
-+V+PstFreq:%>davo # ;
-+V+Fut:%>s # ;
+LEXICON DIRBTI  
++V+Inf:%>ti # ;
++V+Ind+Prs+Sg1:%>u # ; !! added indicative and person
++V+Ind+Prs+Sg2:%>i # ; !! added indicative and person
++V+Ind+Prs+Sg3:%>a # ; !! added indicative and person
++V+Ind+Prs+Pl1:%>ame # ; !! added indicative and person
++V+Ind+Prs+Pl2:%>ate # ; !! added indicative and person
++V+Ind+Prs+Pl3:%>a # ; !! added indicative and person
 
 !#:0   Nouns   ;
 

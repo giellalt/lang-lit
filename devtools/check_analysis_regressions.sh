@@ -13,8 +13,8 @@ giella_lang=lt
 # Directory variables:
 top_srcdir=..
 top_builddir=..
-abs_top_builddir=/Users/ttr000/git/giellalt/lang-lit
-giella_core=/Users/ttr000/git/giellalt/lang-lit/./../giella-core
+abs_top_builddir=/home/aaliy/giellalt/lang-lit
+giella_core=/home/aaliy/giellalt/lang-lit/./../giella-core
 corpusdir=$top_srcdir/tools/analysers/test/
 
 # File variables:
@@ -41,12 +41,12 @@ grmchk_errmessages=$top_srcdir/tools/grammarcheckers/errors.xml
 
 # Tools:
 xerox_lookup=@LOOKUP@
-foma_lookup=/usr/local/bin/flookup
-hfst_lookup=/usr/local/bin/hfst-optimized-lookup
-hfst_tokenise=/usr/local/bin/hfst-tokenize
-vislcg3=/usr/local/bin/vislcg3
-cg_mwesplit=/usr/local/bin/cg-mwesplit
-difftool=/usr/bin/opendiff
+foma_lookup=false
+hfst_lookup=/usr/bin/hfst-optimized-lookup
+hfst_tokenise=/usr/bin/hfst-tokenize
+vislcg3=/usr/bin/vislcg3
+cg_mwesplit=/usr/bin/cg-mwesplit
+difftool=no
 
 # Use autotools mechanisms to only run the configured fst types in the tests:
 fsttype=
@@ -55,11 +55,11 @@ fsttype="$fsttype hfst"
 
 # Use autotools mechanisms to check for hfst-tokenise:
 want_htokenise=x
-want_htokenise=yes
+#want_htokenise=yes
 
 # Use autotools mechanisms to check for mergeability of diff tool:
 can_merge=x
-can_merge=yes
+#can_merge=yes
 
 # Use autotools mechanisms to check for grammar checker testability:
 can_gramcheck=x
