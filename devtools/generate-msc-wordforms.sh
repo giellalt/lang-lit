@@ -19,13 +19,12 @@ fi
 
 ######### USER Variables - change these to your liking: #########
 # Codes for the word forms to be generated - list as many or few as needed:
-morf_codes="+N+Sg+Nom \
-            +N+Sg+Gen \
-            +N+Sg+Ill \
-            +N+Sg+Com \
-            +N+Pl+Nom \
-            +N+Pl+Com \
-            +N+Ess"
+morf_codes="+N+Msc+Sg+Nom \
+            +N+Msc+Sg+Gen \
+            +N+Msc+Sg+Acc \
+            +N+Msc+Pl+Nom \
+            +N+Msc+Pl+Gen \
+            +N+Msc+Pl+Acc"
 
 # Lexicon source file for lexicons and lemmas:
 source_file=src/fst/morphology/stems/nouns.lexc
