@@ -3,7 +3,11 @@
 !! Verbs in the Lithuanian language are actions.
 
 LEXICON Verbs
-dirbti:dirb DIRBTI ;
-norėti:nor NORETI ;
+dirbti+V:dirb DIRBTI ;
+norėti+V:nor NORETI ;
+gyti+V:gij^JDEL DIRBTI;
+ryti+V:rij^JDEL DIRBTI;
+zuti+V:zu ZUTI;
+buti+V: BUTI ; !to be
 
 ! vim: set ft=xfst-lexc:

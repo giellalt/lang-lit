@@ -3,30 +3,39 @@
 !! =================================== !
 
 Alphabet
- a b c d e f g h i j k l m n o p q r s t u v w x y z æ ø å
- á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã ý þ ñ ð ß ç
+A a Ą ą B b C c Č č D d E e Ę ę Ė ė F f G 
+g H h I i Į į Y y J j K k L l M m N n O o 
+P p R r S s Š š T t U u Ų ų Ū ū V v Z z Ž ž
 
- A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Æ Ø Å
- Á É Ó Ú Í À È Ò Ù Ì Ä Ë Ö Ü Ï Â Ê Ô Û Î Ã Ý þ Ñ Ð
+! Declarations
+ %>
+ %^JDEL:0
 
- %>:0 ;
+ ;
+
 
 Sets
 
- Vow = a e i o u y æ ø å 
-       á é ó ú í à è ò ù ì ä ë ö ü ï â ê ô û î ã ý ;
- Cns = b c d f g h j k l m n p q r s t v w x z ð þ ;
+ Vow = a ą e i o u y æ ø å ;
+ Cns = b c d f g h j k l m n p q r s t v w x z  ; !TO DO: change consonants and vowels
  
 Rules
 
-"Deleting stem-final s in s genitive"
- s:0 <=> Vow s %>: _ ;
+! "Deleting stem-final s in s genitive"
+! s:0 <=> Vow s %>: _ ;
+! s deleted when... vowel "s" 
 
-!!€ primus%>s
-!!€ primus00
+"J Deletion"
+j:0 <=> i: _ %^JDEL: %> Cns ;
+! j goes to null "in the context" ...
+! gij^JDEL>ti
+! gy00>ti
 
-!!€grís%>s
-!!€grís00
-
-!!$grís%>s
-!!$grís0s
+"I to Y" 
+i:y <=> [Cns|.#.] _ j: %^JDEL: %> Cns ; 
+! j goes to null "in the context" 
+! [Cns|.#.] to the left there must be a consonant or 
+! be the start of the word
+! we put the suffix boundary to not be too permissive with 
+! y to i change. now we will only change when there is a 
+! suffix boundary AND a JDEL
