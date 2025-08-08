@@ -1,0 +1,16 @@
++N+Msc+Sg+Nom
++N+Msc+Sg+Gen 
++N+Msc+Sg+Abl
++N+Msc+Sg+Dat
++N+Msc+Sg+Acc 
++N+Msc+Sg+Voc 
++N+Msc+Sg+Ins
++N+Msc+Sg+Loc
++N+Msc+Pl+Nom
++N+Msc+Pl+Gen 
++N+Msc+Pl+Abl
++N+Msc+Pl+Dat
++N+Msc+Pl+Acc
++N+Msc+Pl+Voc 
++N+Msc+Pl+Ins
++N+Msc+Pl+Loc
