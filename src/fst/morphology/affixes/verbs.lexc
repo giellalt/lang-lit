@@ -20,6 +20,17 @@ LEXICON DIRBTI
 +V+Ind+Prs+Pl2:%>ate # ; !! added indicative and person
 +V+Ind+Prs+Pl3:%>a # ; !! added indicative and person
 
+LEXICON NORETI  
++V+Inf:%>ėti # ;
++V+Ind+Prs+Sg1:%>iu # ; !! added indicative and person
++V+Ind+Prs+Sg2:%>i # ; !! added indicative and person
++V+Ind+Prs+Sg3:%>i # ; !! added indicative and person
++V+Ind+Prs+Pl1:%>ime # ; !! added indicative and person
++V+Ind+Prs+Pl2:%>ite # ; !! added indicative and person
++V+Ind+Prs+Pl3:%>i # ; !! added indicative and person
+
+
+
 !#:0   Nouns   ;
 
 ! vim: set ft=xfst-lexc:
