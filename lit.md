@@ -195,6 +195,8 @@ The Lithuanian language adjectives compare.
 Noun inflection
 The Lithuanian language nouns inflect in cases.
 
+What group is this???
+
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/morphology/affixes/nouns.lexc](https://github.com/giellalt/lang-lit/blob/main/src/fst/morphology/affixes/nouns.lexc)</small>
@@ -239,6 +241,13 @@ nouns, but with a colon (':') as separator.
 
 Verb inflection
 The Lithuanian language verbs inflect in persons.
+
+added indicative and person
+added indicative and person
+added indicative and person
+added indicative and person
+added indicative and person
+added indicative and person
 
 * * *
 
@@ -295,6 +304,7 @@ Numerals are classified under:
 Verb moods are:
 Verb personal forms are:
 Other verb forms are
+Verb tenses are:
 
 * +Symbol = independent symbols in the text stream, like £, €, ©
 Special symbols are classified with:

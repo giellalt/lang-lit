@@ -22,6 +22,7 @@ Numerals are classified under:
 Verb moods are:
 Verb personal forms are:
 Other verb forms are
+Verb tenses are:
 
 * +Symbol = independent symbols in the text stream, like £, €, ©
 Special symbols are classified with:
