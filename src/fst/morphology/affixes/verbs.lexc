@@ -39,6 +39,7 @@ LEXICON NORETI
 +Ind+Prs+Pl2:%>ite # ; !! added indicative and person
 +Ind+Prs+Pl3:%>i # ; !! added indicative and person
 
+
 LEXICON SKAITYTI
 +Inf:%>yti # ;
 SKAITYTI-INFL ;
@@ -58,9 +59,6 @@ LEXICON SKAITYTI-INFL
 +Ind+Prt+Pl1:%>ėme # ; !! added indicative and person
 +Ind+Prt+Pl2:%>ėte # ; !! added indicative and person
 +Ind+Prt+Pl3:%>ė # ; !! added indicative and person
-
-
-
 
 !#:0   Nouns   ;
 

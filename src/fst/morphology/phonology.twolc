@@ -42,3 +42,20 @@ i:y <=> [Cns|.#.] _ j: %^JDEL: %> Cns ;
 
 "T Deletion to č" ! Should make t to č in +Sg1+Prt
 t:č <=> 
+
+! ! this weakens the stem _ompel_ to _ommel_
+! %^WGStem:0
+
+!  %^WGStem    !!≈ * **@CODE@**  weak grade
+
+
+
+! HarmDummy = %{back%} %{front%} ;
+
+! "g:j"
+! !! **Rule: @RULENAME@**
+! !! ```
+! g:j <=> i _ [ a: ] (HarmDummy:) ( %> i ) %^WGStem:0 ;
+! !!€ poiga%^WGStem%>n
+! !!€ poija0%>n
+! !! ```

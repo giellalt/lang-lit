@@ -13,8 +13,8 @@ giella_lang=lt
 # Directory variables:
 top_srcdir=..
 top_builddir=..
-abs_top_builddir=/home/sysi/gut/giellalt/lang-lit
-giella_core=/home/sysi/gut/giellalt/lang-lit/./../giella-core
+abs_top_builddir=/home/olli/giellalt/lang-lit
+giella_core=/home/olli/giellalt/lang-lit/./../giella-core
 corpusdir=$top_srcdir/tools/analysers/test/
 
 # File variables:
