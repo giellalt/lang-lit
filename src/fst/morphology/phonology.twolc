@@ -39,3 +39,6 @@ i:y <=> [Cns|.#.] _ j: %^JDEL: %> Cns ;
 ! we put the suffix boundary to not be too permissive with 
 ! y to i change. now we will only change when there is a 
 ! suffix boundary AND a JDEL
+
+"T Deletion to č" ! Should make t to č in +Sg1+Prt
+t:č <=> 

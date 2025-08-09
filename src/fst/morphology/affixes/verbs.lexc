@@ -39,6 +39,27 @@ LEXICON NORETI
 +Ind+Prs+Pl2:%>ite # ; !! added indicative and person
 +Ind+Prs+Pl3:%>i # ; !! added indicative and person
 
+LEXICON SKAITYTI
++Inf:%>yti # ;
+SKAITYTI-INFL ;
+
+LEXICON SKAITYTI-INFL
++Ind+Prs+Sg1:%>au # ; !! added indicative and person
++Ind+Prs+Sg2:%>ai # ; !! added indicative and person
++Ind+Prs+Sg3:%>o # ; !! added indicative and person
++Ind+Prs+Pl1:%>ome # ; !! added indicative and person
++Ind+Prs+Pl2:%>ote # ; !! added indicative and person
++Ind+Prs+Pl3:%>o # ; !! added indicative and person
+
+!Past Tense
++Ind+Prt+Sg1:%>iau # ; !! added indicative and person
++Ind+Prt+Sg2:%>ei # ; !! added indicative and person
++Ind+Prt+Sg3:%>ė # ; !! added indicative and person
++Ind+Prt+Pl1:%>ėme # ; !! added indicative and person
++Ind+Prt+Pl2:%>ėte # ; !! added indicative and person
++Ind+Prt+Pl3:%>ė # ; !! added indicative and person
+
+
 
 
 !#:0   Nouns   ;
