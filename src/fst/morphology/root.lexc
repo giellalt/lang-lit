@@ -49,13 +49,21 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
  +Attr +Card
  +Ord 
 !! Verb moods are:
- +Ind +Prs +Prt +Pot +Cond +Imprt 
+ +Ind   ! indicative
+ +Prs   ! present tense
+ +Prt   ! preterite tense
+ +Pot   ! potential
+ +Cond  ! conditional
+ +Imprt ! imperative
 !! Verb personal forms are:
  +Sg1 +Sg2 +Sg3 +Du1 +Du2 +Du3 +Pl1 +Pl2 +Pl3
 !! Other verb forms are
  +Inf +Ger +ConNeg +ConNegII +Neg +ImprtII +PrsPrc +PrfPrc +Sup +VGen +VAbess
 !! Verb tenses are:
- +Pres +Pst +PstFreq +Fut
+ +Pres  
+ +Pst
+ +PstFreq
+ +Fut
 
 ! Abbreviated words are classified with:
  +ABBR +ACR 
