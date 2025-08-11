@@ -2,12 +2,10 @@
 !  -----
 !! Nouns in the Lithuanian language are things.
 
-LEXICON Nouns
-noun    Cases   ;
-! vyras
-! pirstas
-! langas
-! miskas
+LEXICON Nouns    
+vyras+N:vyr VYRAS ;
+pirstas+N:pirst VYRAS ;
+langas+N:lang VYRAS ; 
+miskas+N:misk VYRAS ;
 
 
-! vim: set ft=xfst-lexc:

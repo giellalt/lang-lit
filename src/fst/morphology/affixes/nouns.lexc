@@ -1,21 +1,25 @@
 !! Noun inflection
 !  ---------------
-!! The Lithuanian language nouns inflect in cases.
 
-!LEXICON Paradigm1 ! missing continuation
-!+N+Sg+Nom:as ;
-!+N+Pl+Dat:ams ;
-!+N+Pl+Acc:q ;
 
-!! What group is this???
-LEXICON Cases
- +N+Sg+Nom:0   #     ;
- +N+Pl+Nom:i   #     ;
- +N+Sg+Loc:as  #     ;
- +N+Pl+Loc:ias #     ;
- +N+Sg+Acc:at  #     ;
- +N+Pl+Acc:iat #     ;
-         #:0   Nouns ;
+LEXICON VYRAS  !! Declension I (-as)
+! Singular
++Masc+Nom+Sg:%>as # ;
++Masc+Gen+Sg:%>o # ;
++Masc+Dat+Sg:%>ui # ;
++Masc+Acc+Sg:%>ą # ;
++Masc+Inst+Sg:%>u # ;
++Masc+Loc+Sg:%>e # ;
++Masc+Voc+Sg:%>e # ;
 
-! vim: set ft=xfst-lexc:
+! Plural
++Masc+Gen+Pl:%>ai # ;
++Masc+Dat+Pl:%>ų # ;
++Masc+Nom+Pl:%>ams # ;
++Masc+Acc+Pl:%>us # ;
++Masc+Inst+Pl:%>ais # ;
++Masc+Loc+Pl:%>uose # ;
++Masc+Voc+Pl:%>ai # ;
+
+
 

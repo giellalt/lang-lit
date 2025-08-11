@@ -39,7 +39,7 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
 
 !! The nominals are inflected in the following Case and Number
  +Sg +Du +Pl
- +Ess +Nom +Gen +Acc +Ill +Loc +Com +Com/Sh
+ +Nom +Gen +Dat +Acc +Inst +Loc +Voc
 
 !! Noun declensions
 +I +II +III +IV +V

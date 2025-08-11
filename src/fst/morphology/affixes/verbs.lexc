@@ -73,17 +73,12 @@ LEXICON SKAITYTI-INFL
 !
 !LEXICON Root
 !  0:##  Noun    ;
-!
+
 !LEXICON Noun
 !  tikka:tik^Ka  Cases   ;
 !  loppu:lop^Pu  Cases   ;
 !  katto:kat^To  Cases   ;
 !
-!LEXICON Cases
-!  +SG+NOM:              Final     ;
-!  +SG+GEN:n             Final     ;
-!  +SG+PAR:^A            Final     ;
-!  +SG+TRA:ksi           Final     ;
-!
+
 !LEXICON Final
 !  0:##    #       ;
