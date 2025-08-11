@@ -105,6 +105,8 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
 !! symbols in the lexicon files:
 
 ^JDEL !J deletion
+^TDEL !J deletion
+
 !! And following triggers to control variation
  {front} {back}
 

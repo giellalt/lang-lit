@@ -9,6 +9,6 @@ gyti+V:gij^JDEL DIRBTI;
 ryti+V:rij^JDEL DIRBTI;
 zuti+V:zu ZUTI;
 buti+V: BUTI ; !to be
-skaityti+V:skait SKAITYTI ; 
+skaityti+V:skait^TDEL SKAITYTI ; 
 
 ! vim: set ft=xfst-lexc:

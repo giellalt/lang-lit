@@ -10,7 +10,7 @@ P p R r S s Š š T t U u Ų ų Ū ū V v Z z Ž ž
 ! Declarations
  %>
  %^JDEL:0
-
+ %^TDEL:0
  ;
 
 
@@ -21,41 +21,18 @@ Sets
  
 Rules
 
-! "Deleting stem-final s in s genitive"
-! s:0 <=> Vow s %>: _ ;
-! s deleted when... vowel "s" 
 
 "J Deletion"
 j:0 <=> i: _ %^JDEL: %> Cns ;
-! j goes to null "in the context" ...
-! gij^JDEL>ti
-! gy00>ti
 
 "I to Y" 
 i:y <=> [Cns|.#.] _ j: %^JDEL: %> Cns ; 
-! j goes to null "in the context" 
-! [Cns|.#.] to the left there must be a consonant or 
-! be the start of the word
-! we put the suffix boundary to not be too permissive with 
-! y to i change. now we will only change when there is a 
-! suffix boundary AND a JDEL
+
 
 "T Deletion to č" ! Should make t to č in +Sg1+Prt
-t:č <=> 
+t:č <=> _ %^TDEL: %> i:  ;
 
-! ! this weakens the stem _ompel_ to _ommel_
-! %^WGStem:0
+! t:c <=> _:_  %^TDEL:null %>:%> i:null
+! b:c     b:c       b:c     b:c  b:c 
+! Q: how is this? why is it i: and not i again?
 
-!  %^WGStem    !!≈ * **@CODE@**  weak grade
-
-
-
-! HarmDummy = %{back%} %{front%} ;
-
-! "g:j"
-! !! **Rule: @RULENAME@**
-! !! ```
-! g:j <=> i _ [ a: ] (HarmDummy:) ( %> i ) %^WGStem:0 ;
-! !!€ poiga%^WGStem%>n
-! !!€ poija0%>n
-! !! ```
