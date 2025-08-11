@@ -315,6 +315,8 @@ The Usage extents are marked using following tags:
 
 The nominals are inflected in the following Case and Number
 
+Noun declensions
+
 The possession is marked as such:
 The comparative forms are:
 Numerals are classified under:
