@@ -10,7 +10,7 @@ P p R r S s Š š T t U u Ų ų Ū ū V v Z z Ž ž
 ! Declarations
  %>
  %^JDEL:0
- %^TDEL:0
+ %^TFRIC:0
  ;
 
 
@@ -30,9 +30,8 @@ i:y <=> [Cns|.#.] _ j: %^JDEL: %> Cns ;
 
 
 "T Deletion to č" ! Should make t to č in +Sg1+Prt
-t:č <=> _ %^TDEL: %> i:  ;
+t:č <=> _ %^TFRIC: %> i  ;
 
-! t:c <=> _:_  %^TDEL:null %>:%> i:null
-! b:c     b:c       b:c     b:c  b:c 
-! Q: how is this? why is it i: and not i again?
+! translation: t:c <=> _:_  %^TDEL:null %>:%> i:i
+!              b:c     b:c       b:c     b:c  b:c 
 

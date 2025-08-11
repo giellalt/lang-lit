@@ -41,6 +41,9 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
  +Sg +Du +Pl
  +Ess +Nom +Gen +Acc +Ill +Loc +Com +Com/Sh
 
+!! Noun declensions
++I +II +III +IV +V
+
 !! The possession is marked as such:
  +PxSg1 +PxSg2 +PxSg3 +PxDu1 +PxDu2 +PxDu3 +PxPl1 +PxPl2 +PxPl3
 !! The comparative forms are:
@@ -55,7 +58,7 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
 !! Other verb forms are
  +Inf +Ger +ConNeg +ConNegII +Neg +ImprtII +PrsPrc +PrfPrc +Sup +VGen +VAbess
 !! Verb tenses are:
- +Pres +Pst +PstFreq +Fut
+ +Pres +Prt +PerFreq +Fut !!+Present +Preteriti ? +Future
 
 ! Abbreviated words are classified with:
  +ABBR +ACR 
@@ -105,7 +108,7 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
 !! symbols in the lexicon files:
 
 ^JDEL !J deletion
-^TDEL !J deletion
+^TFRIC !fricatization of T
 
 !! And following triggers to control variation
  {front} {back}
@@ -142,7 +145,7 @@ LEXICON Root
 !! The word forms in Lithuanian language start from the lexeme roots of basic
 !! word classes, or optionally from prefixes:
 0   Nouns       ;
-0   Verbs       ;
+7   Verbs       ;
 0   Adjectives  ;
 0   Pronouns    ;
 0   Numerals    ;
