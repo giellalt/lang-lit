@@ -62,12 +62,18 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
  +Gen       ! genitive
  +Acc       ! accusative
  +Ill       ! illative
+ +Inst      ! instrumental
  +Loc       ! locative
+ +Voc       ! vocative
  +Com       ! comitative
  +Com/Sh    ! ??
 
 !! Noun declensions
 +I +II +III +IV +V
+
+!! Gender
++Masc +Fem
+
 
 !! The possession is marked as such:
  +PxSg1 +PxSg2 +PxSg3 ! singular
