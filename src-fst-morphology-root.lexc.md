@@ -18,6 +18,8 @@ The nominals are inflected in the following Case and Number
 
 Noun declensions
 
+Gender
+
 The possession is marked as such:
 The comparative forms are:
 Numerals are classified under:

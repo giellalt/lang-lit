@@ -193,9 +193,11 @@ The Lithuanian language adjectives compare.
 # src-fst-morphology-affixes-nouns.lexc.md 
 
 Noun inflection
-The Lithuanian language nouns inflect in cases.
 
-What group is this???
+Declension I (-as)
+Singular
+
+Declension I (-is) should we include ys and ias?
 
 * * *
 
@@ -316,6 +318,8 @@ The Usage extents are marked using following tags:
 The nominals are inflected in the following Case and Number
 
 Noun declensions
+
+Gender
 
 The possession is marked as such:
 The comparative forms are:

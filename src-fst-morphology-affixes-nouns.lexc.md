@@ -1,7 +1,9 @@
 Noun inflection
-The Lithuanian language nouns inflect in cases.
 
-What group is this???
+Declension I (-as)
+Singular
+
+Declension I (-is) should we include ys and ias?
 
 * * *
 
