@@ -198,7 +198,7 @@ LEXICON Root
 !! The word forms in Lithuanian language start from the lexeme roots of basic
 !! word classes, or optionally from prefixes:
 0   Nouns       ;
-7   Verbs       ;
+0   Verbs       ;
 0   Adjectives  ;
 0   Pronouns    ;
 0   Numerals    ;
@@ -206,4 +206,4 @@ LEXICON Root
     Punctuation ;
     Symbols     ;
 
-! vim: set ft=xfst-lexc:
+!Q: What are the numbers before the definition for?

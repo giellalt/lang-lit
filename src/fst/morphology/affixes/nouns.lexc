@@ -2,8 +2,19 @@
 !  ---------------
 
 
+! Q: Cases needs to be defined, but where is it used?
+LEXICON Cases
+ +N+Sg+Nom:0   #     ;
+ +N+Pl+Nom:i   #     ;
+ +N+Sg+Loc:as  #     ;
+ +N+Pl+Loc:ias #     ;
+ +N+Sg+Acc:at  #     ;
+ +N+Pl+Acc:iat #     ;
+ #:0   Nouns ;
+
+
 LEXICON VYRAS  !! Declension I (-as)
-! Singular
+!! Singular
 +Masc+Nom+Sg:%>as # ;
 +Masc+Gen+Sg:%>o # ;
 +Masc+Dat+Sg:%>ui # ;
@@ -21,5 +32,21 @@ LEXICON VYRAS  !! Declension I (-as)
 +Masc+Loc+Pl:%>uose # ;
 +Masc+Voc+Pl:%>ai # ;
 
+LEXICON MEDIS !! Declension I (-is) should we include ys and ias?
+!Singular
++Masc+Nom+Sg:%>is # ;
++Masc+Gen+Sg:%>io # ;
++Masc+Dat+Sg:%>iui # ;
++Masc+Acc+Sg:%>į # ;
++Masc+Inst+Sg:%>iu # ;
++Masc+Loc+Sg:%>yje # ;
++Masc+Voc+Sg:%>i # ;
 
-
+! Plural
++Masc+Gen+Pl:%>iai # ;
++Masc+Dat+Pl:%>ių # ;
++Masc+Nom+Pl:%>iams # ;
++Masc+Acc+Pl:%>ius # ;
++Masc+Inst+Pl:%>iais # ;
++Masc+Loc+Pl:%>iuose # ;
++Masc+Voc+Pl:%>iai # ;

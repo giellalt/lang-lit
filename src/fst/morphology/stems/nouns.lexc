@@ -3,9 +3,11 @@
 !! Nouns in the Lithuanian language are things.
 
 LEXICON Nouns    
-vyras+N:vyr VYRAS ;
+vyras+N:vyr VYRAS;
 pirstas+N:pirst VYRAS ;
 langas+N:lang VYRAS ; 
 miskas+N:misk VYRAS ;
 
-
+medis+N:med MEDIS;
+brolis+N:brol MEDIS;
+pelis+N:pel MEDIS;
