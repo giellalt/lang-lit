@@ -11,9 +11,9 @@ giella_lang=lit
 giella2c_lang=lt
 
 # Directory variables from configure:
-top_srcdir=/home/aaliy/giellalt/lang-lit
-top_builddir=/home/aaliy/giellalt/lang-lit
-giella_core=/home/aaliy/giellalt/lang-lit/./../giella-core
+top_srcdir=/home/olli/giellalt/lang-lit
+top_builddir=/home/olli/giellalt/lang-lit
+giella_core=/home/olli/giellalt/lang-lit/./../giella-core
 
 # Other directory variables:
 SCRIPT_DIR=$top_srcdir/devtools

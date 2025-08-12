@@ -114,12 +114,14 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
  +Fut       ! future tense
 
 ! Abbreviated words are classified with:
- +ABBR +ACR 
+ +ABBR      ! abbreviation
+ +ACR       ! acronym 
 +Symbol !!≈ * @CODE@ = independent symbols in the text stream, like £, €, ©
 !! Special symbols are classified with:
 +CLB +PUNCT +LEFT +RIGHT +MIDDLE
 !! The verbs are syntactically split according to transitivity:
- +TV +IV
+ +TV        ! transitive
+ +IV        ! intransitive
 !! Special multiword units are analysed with:
  +Multi
 !! Non-dictionary words can be recognised with:
@@ -131,11 +133,11 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
 
 !! Semantics are classified with
  +Mal +Fem +Sur 
- +Plc 
- +Org
+ +Plc       ! place names
+ +Org       ! organization names
  +Obj
- +Ani
- +Hum
+ +Ani       ! animate names?
+ +Hum       ! human
  +Plant
  +Group
  +Time 
