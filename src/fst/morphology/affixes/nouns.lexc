@@ -3,14 +3,7 @@
 
 
 ! Q: Cases needs to be defined, but where is it used?
-LEXICON Cases
- +N+Sg+Nom:0   #     ;
- +N+Pl+Nom:i   #     ;
- +N+Sg+Loc:as  #     ;
- +N+Pl+Loc:ias #     ;
- +N+Sg+Acc:at  #     ;
- +N+Pl+Acc:iat #     ;
- #:0   Nouns ;
+
 
 
 LEXICON VYRAS  !! Declension I (-as)
