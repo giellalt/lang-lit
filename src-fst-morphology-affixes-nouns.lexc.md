@@ -3,7 +3,9 @@ Noun inflection
 Declension I (-as)
 Singular
 
-Declension I (-is) should we include ys and ias?
+Declension I (-is)should we include ys and ias?
+
+Declension I (-ys)
 
 * * *
 
