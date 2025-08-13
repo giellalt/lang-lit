@@ -2,10 +2,6 @@
 !  ---------------
 
 
-! Q: Cases needs to be defined, but where is it used?
-
-
-
 LEXICON VYRAS  !! Declension I (-as)
 !! Singular
 +Masc+Nom+Sg:%>as # ;
@@ -48,19 +44,19 @@ LEXICON MEDIS !! Declension I (-is)should we include ys and ias?
 
 LEXICON TRAUKINYS !! Declension I (-ys)
 !Singular
-+I+Masc+Nom+Sg:%>ys # ;
-+I+Masc+Gen+Sg:%>io # ;
-+I+Masc+Dat+Sg:%>iui # ;
-+I+Masc+Acc+Sg:%>į # ;
-+I+Masc+Inst+Sg:%>iu # ;
-+I+Masc+Loc+Sg:%>yje # ;
-+I+Masc+Voc+Sg:%>i # ;
++I+Msc+Sg+Nom:%>ys # ;
++I+Msc+Sg+Gen:%>io # ;
++I+Msc+Sg+Dat:%>iui # ;
++I+Msc+Sg+Acc:%>į # ;
++I+Msc+Sg+Inst:%>iu # ;
++I+Msc+Sg+Loc:%>yje # ;
++I+Msc+Sg+Voc:%>i # ;
 
 ! Plural
-+I+Masc+Nom+Pl:%>iai # ;
-+I+Masc+Gen+Pl:%>ių # ;
-+I+Masc+Dat+Pl:%>iams # ;
-+I+Masc+Acc+Pl:%>ius # ;
-+I+Masc+Inst+Pl:%>iais # ;
-+I+Masc+Loc+Pl:%>iuose # ;
-+I+Masc+Voc+Pl:%>iai # ;
++I+Msc+Pl+Nom: MEDIS ;
++I+Msc+Pl+Gen: MEDIS ;
++I+Msc+Pl+Dat: MEDIS ;
++I+Msc+Pl+Acc: MEDIS ;
++I+Msc+Pl+Inst: MEDIS ;
++I+Msc+Pl+Loc: MEDIS ;
++I+Msc+Pl+Voc: MEDIS ;

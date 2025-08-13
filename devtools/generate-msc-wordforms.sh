@@ -1,4 +1,4 @@
-#!/bin/bash
+generate-msc-wordforms.sh#!/bin/bash
 
 # A short shell script to test word form generation for all continuation
 # lexicons except the ones listed in the exception list.
@@ -19,12 +19,12 @@ fi
 
 ######### USER Variables - change these to your liking: #########
 # Codes for the word forms to be generated - list as many or few as needed:
-morf_codes="+N+Msc+Sg+Nom \
-            +N+Msc+Sg+Gen \
-            +N+Msc+Sg+Acc \
-            +N+Msc+Pl+Nom \
-            +N+Msc+Pl+Gen \
-            +N+Msc+Pl+Acc"
+morf_codes="+N+I+Msc+Sg+Nom \
+            +N+I+Msc+Sg+Gen \
+            +N+I+Msc+Sg+Acc \
+            +N+I+Msc+Pl+Nom \
+            +N+I+Msc+Pl+Gen \
+            +N+I+Msc+Pl+Acc"
 
 # Lexicon source file for lexicons and lemmas:
 source_file=src/fst/morphology/stems/nouns.lexc
