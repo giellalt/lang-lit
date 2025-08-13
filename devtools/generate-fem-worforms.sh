@@ -21,10 +21,18 @@ fi
 # Codes for the word forms to be generated - list as many or few as needed:
 morf_codes="+N+Fem+Sg+Nom \
             +N+Fem+Sg+Gen \
+            +N+Fem+Sg+Dat \
             +N+Fem+Sg+Acc \
+            +N+Fem+Sg+Inst \
+            +N+Fem+Sg+Loc \
+            +N+Fem+Sg+Voc \
             +N+Fem+Pl+Nom \
             +N+Fem+Pl+Gen \
-            +N+Fem+Pl+Acc"
+            +N+Fem+Pl+Dat \
+            +N+Fem+Pl+Acc \
+            +N+Fem+Pl+Inst \
+            +N+Fem+Pl+Loc \
+            +N+Fem+Pl+Voc"
 
 # Lexicon source file for lexicons and lemmas:
 source_file=src/fst/morphology/stems/nouns.lexc

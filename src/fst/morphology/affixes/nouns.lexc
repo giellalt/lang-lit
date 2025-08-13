@@ -77,3 +77,23 @@ LEXICON FIRST_DECLENSION_IAS !! Declension I (-ias)
 +Msc+Pl+Inst:%>iais # ;
 +Msc+Pl+Loc:%>iuose # ;
 +Msc+Pl+Voc:%>iai # ;
+
+
+LEXICON SECOND_DECLENSION_O !! Declension II
+!Singular
++Fem+Sg+Nom:%>a # ;
++Fem+Sg+Gen:%>os # ;
++Fem+Sg+Dat:%>ai # ;
++Fem+Sg+Acc:%>ą # ;
++Fem+Sg+Inst:%>a # ;
++Fem+Sg+Loc:%>oje # ;
++Fem+Sg+Voc:%>a # ;
+
+! Plural
++Fem+Pl+Nom:%>os # ;
++Fem+Pl+Gen:%>ų # ;
++Fem+Pl+Dat:%>oms # ;
++Fem+Pl+Acc:%>as # ;
++Fem+Pl+Inst:%>omis # ;
++Fem+Pl+Loc:%>ose # ;
++Fem+Pl+Voc:%>os # ;
