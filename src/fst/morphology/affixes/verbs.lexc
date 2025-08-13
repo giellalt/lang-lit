@@ -7,7 +7,7 @@ LEXICON BUTI
 
 LEXICON ZUTI 
 +Inf:ti # ;
-:v DIRBTI-INFL ; ! leveraging the dirbti we already wrote to make zuti.
+! :v DIRBTI-INFL ; ! leveraging the dirbti we already wrote to make zuti.
 
 
 LEXICON DIRBTI  

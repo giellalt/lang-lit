@@ -58,9 +58,9 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
 !! The nominals are inflected in the following Case and Number
  +Sg +Du +Pl
  +Ess       ! essive
- +Nom       ! nominative
+ +Nom       ! nominative 
  +Gen       ! genitive
- +Acc       ! accusative
+ +Acc      ! accusative 
  +Ill       ! illative
  +Inst      ! instrumental
  +Loc       ! locative

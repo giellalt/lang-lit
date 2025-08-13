@@ -17,29 +17,50 @@ LEXICON VYRAS  !! Declension I (-as)
 +Masc+Voc+Sg:%>e # ;
 
 ! Plural
-+Masc+Gen+Pl:%>ai # ;
-+Masc+Dat+Pl:%>ų # ;
-+Masc+Nom+Pl:%>ams # ;
++Masc+Nom+Pl:%>ai # ;
++Masc+Gen+Pl:%>ų # ;
++Masc+Dat+Pl:%>ams # ;
 +Masc+Acc+Pl:%>us # ;
 +Masc+Inst+Pl:%>ais # ;
 +Masc+Loc+Pl:%>uose # ;
 +Masc+Voc+Pl:%>ai # ;
 
-LEXICON MEDIS !! Declension I (-is) should we include ys and ias?
+LEXICON MEDIS !! Declension I (-is)should we include ys and ias?
 !Singular
-+Masc+Nom+Sg:%>is # ;
-+Masc+Gen+Sg:%>io # ;
-+Masc+Dat+Sg:%>iui # ;
-+Masc+Acc+Sg:%>į # ;
-+Masc+Inst+Sg:%>iu # ;
-+Masc+Loc+Sg:%>yje # ;
-+Masc+Voc+Sg:%>i # ;
++I+Masc+Nom+Sg:%>is # ;
++I+Masc+Nom+Sg:%>ys # ;
++I+Masc+Nom+Sg:%>ias # ;
++I+Masc+Gen+Sg:%>io # ;
++I+Masc+Dat+Sg:%>iui # ;
++I+Masc+Acc+Sg:%>į # ;
++I+Masc+Inst+Sg:%>iu # ;
++I+Masc+Loc+Sg:%>yje # ;
++I+Masc+Voc+Sg:%>i # ;
 
 ! Plural
-+Masc+Gen+Pl:%>iai # ;
-+Masc+Dat+Pl:%>ių # ;
-+Masc+Nom+Pl:%>iams # ;
-+Masc+Acc+Pl:%>ius # ;
-+Masc+Inst+Pl:%>iais # ;
-+Masc+Loc+Pl:%>iuose # ;
-+Masc+Voc+Pl:%>iai # ;
++I+Masc+Nom+Pl:%>iai # ;
++I+Masc+Gen+Pl:%>ių # ;
++I+Masc+Dat+Pl:%>iams # ;
++I+Masc+Acc+Pl:%>ius # ;
++I+Masc+Inst+Pl:%>iais # ;
++I+Masc+Loc+Pl:%>iuose # ;
++I+Masc+Voc+Pl:%>iai # ;
+
+LEXICON TRAUKINYS !! Declension I (-ys)
+!Singular
++I+Masc+Nom+Sg:%>ys # ;
++I+Masc+Gen+Sg:%>io # ;
++I+Masc+Dat+Sg:%>iui # ;
++I+Masc+Acc+Sg:%>į # ;
++I+Masc+Inst+Sg:%>iu # ;
++I+Masc+Loc+Sg:%>yje # ;
++I+Masc+Voc+Sg:%>i # ;
+
+! Plural
++I+Masc+Nom+Pl:%>iai # ;
++I+Masc+Gen+Pl:%>ių # ;
++I+Masc+Dat+Pl:%>iams # ;
++I+Masc+Acc+Pl:%>ius # ;
++I+Masc+Inst+Pl:%>iais # ;
++I+Masc+Loc+Pl:%>iuose # ;
++I+Masc+Voc+Pl:%>iai # ;
