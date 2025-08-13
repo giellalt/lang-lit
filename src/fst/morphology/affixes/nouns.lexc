@@ -29,15 +29,7 @@ LEXICON FIRST_DECLENSION_IS !! Declension I (-is)
 +Msc+Sg+Inst:%>iu # ;
 +Msc+Sg+Loc:%>yje # ;
 +Msc+Sg+Voc:%>i # ;
-
-! Plural
-+Msc+Pl+Nom:%>iai # ;
-+Msc+Pl+Gen:%>ių # ;
-+Msc+Pl+Dat:%>iams # ;
-+Msc+Pl+Acc:%>ius # ;
-+Msc+Pl+Inst:%>iais # ;
-+Msc+Pl+Loc:%>iuose # ;
-+Msc+Pl+Voc:%>iai # ;
+: FIRST_DECLENSION_COMMON_PL ;
 
 LEXICON FIRST_DECLENSION_YS !! Declension I (-ys)
 !Singular
@@ -48,15 +40,7 @@ LEXICON FIRST_DECLENSION_YS !! Declension I (-ys)
 +Msc+Sg+Inst:%>iu # ;
 +Msc+Sg+Loc:%>yje # ;
 +Msc+Sg+Voc:%>y # ;
-
-! Plural
-+Msc+Pl+Nom:%>iai # ;
-+Msc+Pl+Gen:%>ių # ;
-+Msc+Pl+Dat:%>iams # ;
-+Msc+Pl+Acc:%>ius # ;
-+Msc+Pl+Inst:%>iais # ;
-+Msc+Pl+Loc:%>iuose # ;
-+Msc+Pl+Voc:%>iai # ;
+: FIRST_DECLENSION_COMMON_PL ;
 
 
 LEXICON FIRST_DECLENSION_IAS !! Declension I (-ias)
@@ -68,7 +52,10 @@ LEXICON FIRST_DECLENSION_IAS !! Declension I (-ias)
 +Msc+Sg+Inst:%>iu # ;
 +Msc+Sg+Loc:%>yje # ;
 +Msc+Sg+Voc:%>y # ;
+: FIRST_DECLENSION_COMMON_PL ;
 
+
+LEXICON FIRST_DECLENSION_COMMON_PL
 ! Plural
 +Msc+Pl+Nom:%>iai # ;
 +Msc+Pl+Gen:%>ių # ;
@@ -77,6 +64,7 @@ LEXICON FIRST_DECLENSION_IAS !! Declension I (-ias)
 +Msc+Pl+Inst:%>iais # ;
 +Msc+Pl+Loc:%>iuose # ;
 +Msc+Pl+Voc:%>iai # ;
+
 
 
 LEXICON SECOND_DECLENSION_O !! Declension II
