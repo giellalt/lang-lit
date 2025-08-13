@@ -21,8 +21,7 @@ LEXICON FIRST_DECLENSION_A !! Declension I (-as)
 +Msc+Pl+Loc:%>uose # ;
 +Msc+Pl+Voc:%>ai # ;
 
-LEXICON FIRST_DECLENSION_IS !! Declension I (-is)should we include ys and ias?
-!Singular
+LEXICON FIRST_DECLENSION_IS !! Declension I (-is)
 +Msc+Sg+Nom:%>is # ;
 +Msc+Sg+Gen:%>io # ;
 +Msc+Sg+Dat:%>iui # ;
@@ -59,3 +58,22 @@ LEXICON FIRST_DECLENSION_YS !! Declension I (-ys)
 +Msc+Pl+Loc:%>iuose # ;
 +Msc+Pl+Voc:%>iai # ;
 
+
+LEXICON FIRST_DECLENSION_IAS !! Declension I (-ias)
+!Singular
++Msc+Sg+Nom:%>ias # ;
++Msc+Sg+Gen:%>io # ;
++Msc+Sg+Dat:%>iui # ;
++Msc+Sg+Acc:%>į # ;
++Msc+Sg+Inst:%>iu # ;
++Msc+Sg+Loc:%>yje # ;
++Msc+Sg+Voc:%>y # ;
+
+! Plural
++Msc+Pl+Nom:%>iai # ;
++Msc+Pl+Gen:%>ių # ;
++Msc+Pl+Dat:%>iams # ;
++Msc+Pl+Acc:%>ius # ;
++Msc+Pl+Inst:%>iais # ;
++Msc+Pl+Loc:%>iuose # ;
++Msc+Pl+Voc:%>iai # ;
