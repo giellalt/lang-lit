@@ -16,8 +16,6 @@ The Usage extents are marked using following tags:
 
 The nominals are inflected in the following Case and Number
 
-Noun declensions
-
 Gender
 
 The possession is marked as such:
