@@ -97,3 +97,22 @@ LEXICON SECOND_DECLENSION_O !! Declension II
 +Fem+Pl+Inst:%>omis # ;
 +Fem+Pl+Loc:%>ose # ;
 +Fem+Pl+Voc:%>os # ;
+
+LEXICON SECOND_DECLENSION_Ė !! Declension II
+!Singular
++Fem+Sg+Nom:%>ė # ;
++Fem+Sg+Gen:%>ės # ;
++Fem+Sg+Dat:%>ei # ;
++Fem+Sg+Acc:%>ę # ;
++Fem+Sg+Inst:%>e # ;
++Fem+Sg+Loc:%>ėje # ;
++Fem+Sg+Voc:%>e # ;
+
+! Plural
++Fem+Pl+Nom:%>ės # ;
++Fem+Pl+Gen:%>ių # ;
++Fem+Pl+Dat:%>ėms # ;
++Fem+Pl+Acc:%>es # ;
++Fem+Pl+Inst:%>ėmis # ;
++Fem+Pl+Loc:%>ėse # ;
++Fem+Pl+Voc:%>ės # ;

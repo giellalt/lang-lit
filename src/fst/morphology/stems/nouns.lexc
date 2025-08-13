@@ -17,3 +17,5 @@ traukinys+N:traukin FIRST_DECLENSION_YS ;
 svečias+N:sveč FIRST_DECLENSION_IAS ;
 
 žmona+N:žmon SECOND_DECLENSION_O ;
+
+saulė+N:saul SECOND_DECLENSION_Ė ;
