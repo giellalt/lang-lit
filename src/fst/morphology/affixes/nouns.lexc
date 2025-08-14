@@ -54,6 +54,17 @@ LEXICON FIRST_DECLENSION_IAS !! Declension I (-ias)
 +Msc+Sg+Voc:%>y # ;
 : FIRST_DECLENSION_COMMON_PL ;
 
+LEXICON FIRST_DECLENSION_IAS_B !! Declension I (-ias) exception
+!Singular
++Msc+Sg+Nom:%>ias # ;
++Msc+Sg+Gen:%>io # ;
++Msc+Sg+Dat:%>iui # ;
++Msc+Sg+Acc:%>ią # ;
++Msc+Sg+Inst:%>iu # ;
++Msc+Sg+Loc:%>yje # ;
++Msc+Sg+Voc:%>iau # ;
+: FIRST_DECLENSION_COMMON_PL ;
+
 
 LEXICON FIRST_DECLENSION_COMMON_PL
 ! Plural
@@ -64,7 +75,6 @@ LEXICON FIRST_DECLENSION_COMMON_PL
 +Msc+Pl+Inst:%>iais # ;
 +Msc+Pl+Loc:%>iuose # ;
 +Msc+Pl+Voc:%>iai # ;
-
 
 
 LEXICON SECOND_DECLENSION_O !! Declension II

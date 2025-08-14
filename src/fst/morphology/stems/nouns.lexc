@@ -15,6 +15,7 @@ pelis+N:pel FIRST_DECLENSION_IS ;
 traukinys+N:traukin FIRST_DECLENSION_YS ;
 
 svečias+N:sveč FIRST_DECLENSION_IAS ;
+velnias+N:veln FIRST_DECLENSION_IAS_B ;
 
 žmona+N:žmon SECOND_DECLENSION_O ;
 
