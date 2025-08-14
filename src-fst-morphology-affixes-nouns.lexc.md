@@ -9,6 +9,8 @@ Declension I (-ys)
 
 Declension I (-ias)
 
+Declension I (-ias) exception
+
 Declension II
 
 Declension II
