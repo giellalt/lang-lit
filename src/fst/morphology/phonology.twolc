@@ -29,9 +29,15 @@ j:0 <=> i: _ %^JDEL: %> Cns ;
 i:y <=> [Cns|.#.] _ j: %^JDEL: %> Cns ; 
 
 
-"T Deletion to č" ! Should make t to č in +Sg1+Prt
+"T Fricatization to č" ! Should make t to č in +Sg1+Prt
 t:č <=> _ %^TFRIC: %> i  ;
 
 ! translation: t:c <=> _:_  %^TDEL:null %>:%> i:i
 !              b:c     b:c       b:c     b:c  b:c 
 
+
+"I Division" !Delete one i when two i appear consecutively
+i:0 <=> _ %> i ;
+
+! translation: i:0 <=> _:_      %>:%>    i:i
+!              b:c     b:c       b:c     b:c  
