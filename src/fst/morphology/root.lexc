@@ -51,6 +51,9 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
  +Rel       ! relative
  +Indef     ! indefinite
 
+
+!! Prefix
++Pref ! prefix
 !! The Usage extents are marked using following tags:
  +Err/Orth   
  +Use/-Spell 
@@ -71,7 +74,6 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
 
 !! Gender
 +Msc +Fem
-
 
 !! The possession is marked as such:
  +PxSg1 +PxSg2 +PxSg3 ! singular
