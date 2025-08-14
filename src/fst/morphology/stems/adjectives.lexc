@@ -3,6 +3,5 @@
 !! Adjectives in the Lithuanian language describe things.
 
 LEXICON Adjectives
-adjective    Comparisons   ;
-
+šalta+A:šalt ADJ_FIRST_DECLENSION_A ;
 ! vim: set ft=xfst-lexc:

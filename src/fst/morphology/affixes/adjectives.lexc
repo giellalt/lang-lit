@@ -2,10 +2,37 @@
 !  --------------------
 !! The Lithuanian language adjectives compare.
 
-LEXICON Comparisons
-+A+pos:0        #   ;
-+A+cmp:er       #   ;
-+A+sup:est      #   ;
+LEXICON ADJ_FIRST_DECLENSION_A  !! Neuter adjectives also exist, but are less common
+!! Singular - Msc
++Msc+Sg+Nom:%>as # ;
++Msc+Sg+Gen:%>o # ;
++Msc+Sg+Dat:%>am # ;
++Msc+Sg+Acc:%>ą # ;
++Msc+Sg+Inst:%>u # ;
++Msc+Sg+Loc:%>ame # ;
 
-! vim: set ft=xfst-lexc:
+! Plural - Msc
++Msc+Pl+Nom:%>i # ;
++Msc+Pl+Gen:%>ų # ;
++Msc+Pl+Dat:%>iems # ;
++Msc+Pl+Acc:%>us # ;
++Msc+Pl+Inst:%>ais # ;
++Msc+Pl+Loc:%>uose # ;
+
+!! Singular - Fem
++Fem+Sg+Nom:%>a # ;
++Fem+Sg+Gen:%>os # ;
++Fem+Sg+Dat:%>ai # ;
++Fem+Sg+Acc:%>ą # ;
++Fem+Sg+Inst:%>a # ;
++Fem+Sg+Loc:%>oje # ;
+
+! Plural - Fem
++Fem+Pl+Nom:%>os # ;
++Fem+Pl+Gen:%>ų # ;
++Fem+Pl+Dat:%>oms # ;
++Fem+Pl+Acc:%>as # ;
++Fem+Pl+Inst:%>omis # ;
++Fem+Pl+Loc:%>ose # ;
+
 

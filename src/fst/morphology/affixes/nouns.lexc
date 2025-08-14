@@ -2,7 +2,7 @@
 !  ---------------
 
 
-LEXICON FIRST_DECLENSION_A !! Declension I (-as)
+LEXICON N_FIRST_DECLENSION_A !! Declension I (-as)
 !! Singular
 +Msc+Sg+Nom:%>as # ;
 +Msc+Sg+Gen:%>o # ;
