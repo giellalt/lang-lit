@@ -7,8 +7,9 @@ POS=adjectives
 source_file=@abs_srcdir@/../stems/${POS}.lexc
 generator_file=@abs_builddir@/../../generator-gt-norm
 analyser_file=@abs_builddir@/../../analyser-gt-norm
-tags="+A+Pos+Sg+Nom"
+tags="+A+Msc+Sg+Nom"
 # advanced settings (leave empty or write full args)
+#xtags="-t +A+Msc+Sg+Nom -t +A+Comp+Msc+Sg+Nom -t +A+Superl+Msc+Sg+Nom"
 xtags=
 inclusions=
 exclusions=
