@@ -8,15 +8,15 @@ pirstas+N:pirst N_FIRST_DECLENSION_A ;
 langas+N:lang N_FIRST_DECLENSION_A ; 
 miskas+N:misk N_FIRST_DECLENSION_A ;
 
-medis+N:med FIRST_DECLENSION_IS ;
-brolis+N:brol FIRST_DECLENSION_IS ;
-pelis+N:pel FIRST_DECLENSION_IS ;
+medis+N:med N_FIRST_DECLENSION_IS ;
+brolis+N:brol N_FIRST_DECLENSION_IS ;
+pelis+N:pel N_FIRST_DECLENSION_IS ;
 
-traukinys+N:traukin FIRST_DECLENSION_YS ;
+traukinys+N:traukin N_FIRST_DECLENSION_YS ;
 
-svečias+N:sveč FIRST_DECLENSION_IAS ;
-velnias+N:veln FIRST_DECLENSION_IAS_B ;
+svečias+N:sveč N_FIRST_DECLENSION_IAS ;
+velnias+N:veln N_FIRST_DECLENSION_IAS_B ;
 
-žmona+N:žmon SECOND_DECLENSION_O ;
+žmona+N:žmon N_SECOND_DECLENSION_O ;
 
-saulė+N:saul SECOND_DECLENSION_Ė ;
+saulė+N:saul N_SECOND_DECLENSION_Ė ;

@@ -38,6 +38,6 @@ t:č <=> _ %^TFRIC: %> i  ;
 
 
 "I Division" !Delete one i when two i appear consecutively
-i:0 <=>  %^IDIV: %> _ i ;
+i:0 <=>  %^IDIV: _ %> i ;
 ! translation: i:0 <=> _:_      %>:%>    i:i
 !              b:c     b:c       b:c     b:c  
