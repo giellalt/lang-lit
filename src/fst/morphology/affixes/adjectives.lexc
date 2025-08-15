@@ -2,7 +2,7 @@
 !  --------------------
 !! The Lithuanian language adjectives compare.
 
-LEXICON ADJ_FIRST_DECLENSION_A  !! Neuter adjectives also exist, but are less common
+LEXICON ADJ_FIRST_DECLENSION_AS  !! Neuter adjectives also exist, but are less common
 !! Singular - Msc
 +Msc+Sg+Nom:%>as # ;
 +Msc+Sg+Gen:%>o # ;
@@ -35,4 +35,6 @@ LEXICON ADJ_FIRST_DECLENSION_A  !! Neuter adjectives also exist, but are less co
 +Fem+Pl+Inst:%>omis # ;
 +Fem+Pl+Loc:%>ose # ;
 
+LEXICON ADJ_FIRST_DECLENSION_IAS
+:i ADJ_FIRST_DECLENSION_AS ;
 
