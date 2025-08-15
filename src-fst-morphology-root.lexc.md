@@ -12,7 +12,7 @@ The parts-of-speech are:
 
 The parts of speech are further split up into:
 
-Prefix
+Prefixes
 The Usage extents are marked using following tags:
 
 The nominals are inflected in the following Case and Number
