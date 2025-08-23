@@ -64,8 +64,8 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
  +Ess       ! essive
  +Nom       ! nominative 
  +Gen       ! genitive
- +Acc      ! accusative 
- +Ill       ! illative
+ +Acc      ! accusative
+ +Dat       ! dative
  +Inst      ! instrumental
  +Loc       ! locative
  +Voc       ! vocative
@@ -109,7 +109,7 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
  +VGen 
  +VAbess
 !! Verb tenses are:
- +Pres      ! present tense
+ +Prs      ! present tense
  +Prt       ! preterite tense
  +PerFreq   ! ?
  +Fut       ! future tense
