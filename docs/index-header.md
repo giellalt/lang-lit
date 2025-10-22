@@ -5,6 +5,7 @@
 [![License](https://img.shields.io/github/license/giellalt/lang-lit)](https://github.com/giellalt/lang-lit/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-lit)](https://github.com/giellalt/lang-lit/issues)
 [![Build Status](https://builds.giellalt.org/api/badge/lang-lit?label=CI)](https://builds.giellalt.org/pipelines/lang-lit/builds/latest)
+[![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/lith1251)
 
 This page documents the work on the **Lithuanian language model**. 
 
