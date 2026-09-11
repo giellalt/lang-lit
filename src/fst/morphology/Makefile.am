@@ -35,8 +35,7 @@ GT_LEXC_ROOT=$(srcdir)/root.lexc
 GT_LEXC_SRCS_L1_L2=\
 			 affixes/adjectives.lexc  \
 			 affixes/nouns.lexc       \
-			 affixes/prefixes.lexc      \
-			 affixes/propernouns.lexc \
+			 affixes/prefixes.lexc    \
 			 affixes/symbols.lexc     \
 			 affixes/verbs.lexc       \
 			 stems/adjectives.lexc    \
@@ -44,6 +43,8 @@ GT_LEXC_SRCS_L1_L2=\
 			 stems/numerals.lexc      \
 			 stems/pronouns.lexc      \
 			 stems/verbs.lexc
+
+#			 affixes/propernouns.lexc
 
 # If you are building an error-detecting L2 analyser, specify the lexc files
 # that differ between the regular L1 and the L2 analysers below, in L1 and
